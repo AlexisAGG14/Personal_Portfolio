@@ -1,0 +1,8 @@
+# Ignore DS STORE FILES
+*.db
+*.py[cod]
+.DS_STORE
+.vscode
+.web
+__pycache__/
+assets/external/
